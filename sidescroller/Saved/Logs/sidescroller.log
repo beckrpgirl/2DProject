@@ -681,3 +681,67 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.07.08-18.32.26:892][804]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
 [2019.07.08-18.32.29:304][947]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.07.08-18.32.44:608][864]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.08-18.53.01:301][864]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.07.08-18.53.01:312][865]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.08-18.53.01:312][865]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.08-18.53.01:312][865]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.08-18.53.01:312][865]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.08-18.53.01:312][865]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.08-18.53.01:313][865]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.08-18.53.01:313][865]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.08-18.53.01:313][865]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.08-18.53.01:313][865]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.08-18.53.01:313][865]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.08-18.53.01:313][865]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.08-18.53.01:313][865]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.08-18.53.01:313][865]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.08-18.53.01:313][865]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.08-18.53.01:313][865]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.08-18.53.01:313][865]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.08-18.53.01:313][865]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.08-18.53.01:313][865]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.08-18.53.01:313][865]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.08-18.53.01:313][865]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.08-18.58.51:918][439]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.08-18.58.53:502][534]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.08-18.58.57:940][800]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.07.08-18.58.57:940][800]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2019.07.08-18.58.57:940][800]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.07.08-18.58.57:940][800]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2019.07.08-18.58.57:941][800]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.07.08-18.58.57:941][800]LogWindows: Warning: URL: C:\Users\beckr\AppData\Local/Programs/Git/cmd/git.exe version
+[2019.07.08-18.58.57:941][800]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.07.08-18.58.57:941][800]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2019.07.08-18.58.57:942][800]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.07.08-18.58.57:942][800]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2019.07.08-18.58.57:942][800]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.07.08-18.58.57:942][800]LogWindows: Warning: URL: C:\Users\beckr\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2019.07.08-18.58.57:943][800]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.07.08-18.58.57:943][800]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2019.07.08-18.59.20:659][163]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.07.08-18.59.20:659][163]LogWindows: Warning: URL: D:/Epic Games/UE_4.22/Engine/Binaries/Win64/ version
+[2019.07.08-18.59.41:329][466]LogSlate: Window 'Source Control Login' being destroyed
+[2019.07.08-19.03.53:360][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.08-19.03.57:970][863]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode
+[2019.07.08-19.04.09:410][536]LogSlate: Window '2DSideScrollerGameMode' being destroyed
+[2019.07.08-19.04.09:414][536]LogSlate: Window '2DSideScrollerGameMode' being destroyed
+[2019.07.08-19.05.49:372][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.08-19.05.56:927][761]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2019.07.08-19.05.57:474][762]LogSlate: Took 0.008923 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.07.08-19.06.30:086][718]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2019.07.08-19.06.30:091][718]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2019.07.08-19.06.47:069][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.08-19.06.47:277][746]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode
+[2019.07.08-19.07.01:527][588]LogSlate: Window '2DSideScrollerGameMode' being destroyed
+[2019.07.08-19.07.01:533][588]LogSlate: Window '2DSideScrollerGameMode' being destroyed
+[2019.07.08-19.07.03:909][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.08-19.07.08:415][998]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2019.07.08-19.09.38:975][961]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.07.08-19.09.39:092][961]LogSavePackage: Moving '../../../../../Unreal games/2DProject/sidescroller/Saved/2DSideScrollerExampleMap_Auto21E6E41DB4EA20467FA2B1482E2BE6339.tmp' to '../../../../../Unreal games/2DProject/sidescroller/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto2.umap'
+[2019.07.08-19.09.39:093][961]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.155
+[2019.07.08-19.09.39:093][961]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.155
+[2019.07.08-19.09.39:095][961]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter] ([1] browsable assets)...
+[2019.07.08-19.09.39:095][961]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter]
+[2019.07.08-19.09.39:123][961]LogSavePackage: Moving '../../../../../Unreal games/2DProject/sidescroller/Saved/2DSideScrollerCharacter_Auto2FB9E3AFC4BD3850F5FB1FD899A99AEAB.tmp' to '../../../../../Unreal games/2DProject/sidescroller/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto2.uasset'
+[2019.07.08-19.09.39:123][961]LogFileHelpers: Auto-saving content packages took 0.029
+[2019.07.08-19.10.00:515][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
