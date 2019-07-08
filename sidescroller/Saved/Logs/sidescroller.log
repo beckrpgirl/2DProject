@@ -736,3 +736,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.07.08-19.07.01:533][588]LogSlate: Window '2DSideScrollerGameMode' being destroyed
 [2019.07.08-19.07.03:909][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.07.08-19.07.08:415][998]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2019.07.08-19.09.38:975][961]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.07.08-19.09.39:092][961]LogSavePackage: Moving '../../../../../Unreal games/2DProject/sidescroller/Saved/2DSideScrollerExampleMap_Auto21E6E41DB4EA20467FA2B1482E2BE6339.tmp' to '../../../../../Unreal games/2DProject/sidescroller/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto2.umap'
+[2019.07.08-19.09.39:093][961]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.155
+[2019.07.08-19.09.39:093][961]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.155
+[2019.07.08-19.09.39:095][961]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter] ([1] browsable assets)...
+[2019.07.08-19.09.39:095][961]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter]
+[2019.07.08-19.09.39:123][961]LogSavePackage: Moving '../../../../../Unreal games/2DProject/sidescroller/Saved/2DSideScrollerCharacter_Auto2FB9E3AFC4BD3850F5FB1FD899A99AEAB.tmp' to '../../../../../Unreal games/2DProject/sidescroller/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto2.uasset'
+[2019.07.08-19.09.39:123][961]LogFileHelpers: Auto-saving content packages took 0.029
+[2019.07.08-19.10.00:515][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
