@@ -1,0 +1,9 @@
+add a blueprint that moves platform left/right or up/down
+
+add a blueprint that makes a platform rotate
+
+add a level blueprint that displays time on screen
+
+add a blueprint that teleports the player when touched
+
+add a blueprint that gives the player a point then despawns
