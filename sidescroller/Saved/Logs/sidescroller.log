@@ -745,3 +745,161 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.07.08-19.09.39:123][961]LogSavePackage: Moving '../../../../../Unreal games/2DProject/sidescroller/Saved/2DSideScrollerCharacter_Auto2FB9E3AFC4BD3850F5FB1FD899A99AEAB.tmp' to '../../../../../Unreal games/2DProject/sidescroller/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto2.uasset'
 [2019.07.08-19.09.39:123][961]LogFileHelpers: Auto-saving content packages took 0.029
 [2019.07.08-19.10.00:515][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.08-19.12.49:750][859]LogSlate: Window 'Tutorials' being destroyed
+[2019.07.08-19.14.50:503][ 18]LogSlate: Window 'Tutorials' being destroyed
+[2019.07.08-19.14.50:508][ 18]LogSlate: Window 'Tutorials' being destroyed
+[2019.07.08-19.14.53:552][200]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2019.07.08-19.14.53:557][200]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2019.07.08-19.15.00:707][626]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2019.07.08-19.17.04:346][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.08-19.17.13:567][596]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.08-19.17.43:298][525]LogSlate: Window 'Source Control Login' being destroyed
+[2019.07.08-19.19.15:265][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.08-19.19.21:462][554]LogSlate: Window 'Tutorials' being destroyed
+[2019.07.08-19.19.21:470][554]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.08-19.19.21:477][554]LogSlate: Window 'Tutorials' being destroyed
+[2019.07.08-19.19.23:858][697]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.08-19.20.07:185][296]LogUObjectGlobals: Warning: Failed to find object 'Object None.ActorDetails'
+[2019.07.08-19.20.54:437][130]LogSlate: Window 'Tutorials' being destroyed
+[2019.07.08-19.20.54:442][130]LogSlate: Window 'Tutorials' being destroyed
+[2019.07.08-19.23.44:746][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.08-19.24.11:687][964]LogSlate: Window 'Tutorials' being destroyed
+[2019.07.08-19.24.11:694][964]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.08-19.24.11:702][964]LogSlate: Window 'Tutorials' being destroyed
+[2019.07.08-19.24.18:184][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.08-19.24.42:127][789]LogStreaming: Warning: Failed to read file '../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part1/IWBE_Tutorial_Part1_Stage5_01.png' error.
+[2019.07.08-19.24.42:127][789]LogSlate: Could not find file for Slate resource: ../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part1/IWBE_Tutorial_Part1_Stage5_01.png
+[2019.07.08-19.24.57:831][731]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2019.07.08-19.25.28:174][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.08-19.25.33:781][887]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2019.07.08-19.25.39:087][204]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_34)
+[2019.07.08-19.25.44:119][504]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.08-19.26.01:882][568]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.08-19.26.13:763][568]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.07.08-19.26.13:773][568]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.08-19.26.32:261][568]LogSlate: Window 'Message' being destroyed
+[2019.07.08-19.26.42:836][568]LogSlate: Window 'Create Blank Blueprint Class' being destroyed
+[2019.07.08-19.26.42:851][568]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.08-19.26.42:853][568]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/PlatformMovement.PlatformMovement
+[2019.07.08-19.26.46:198][749]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.07.08-19.26.46:198][749]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.031
+[2019.07.08-19.26.46:199][749]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PlatformMovement] ([1] browsable assets)...
+[2019.07.08-19.26.46:199][749]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PlatformMovement]
+[2019.07.08-19.26.46:202][749]LogSavePackage: Moving '../../../../../Unreal games/2DProject/sidescroller/Saved/PlatformMovement_Auto3DB31F11B4B8AEA03C9B8F8AC4550225E.tmp' to '../../../../../Unreal games/2DProject/sidescroller/Saved/Autosaves/Game/Blueprints/PlatformMovement_Auto3.uasset'
+[2019.07.08-19.26.46:203][749]LogFileHelpers: Auto-saving content packages took 0.006
+[2019.07.08-19.26.59:559][550]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.08-19.27.03:118][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.08-19.27.29:560][348]LogSlate: Window 'Tutorials' being destroyed
+[2019.07.08-19.27.29:571][348]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.08-19.27.29:580][348]LogSlate: Window 'Tutorials' being destroyed
+[2019.07.08-19.28.06:620][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.08-19.36.46:406][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2019.07.08-19.36.46:406][588]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.031
+[2019.07.08-19.36.46:407][588]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PlatformMovement] ([1] browsable assets)...
+[2019.07.08-19.36.46:408][588]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PlatformMovement]
+[2019.07.08-19.36.46:413][588]LogSavePackage: Moving '../../../../../Unreal games/2DProject/sidescroller/Saved/PlatformMovement_Auto4295F4D6041C41CD12F6F2D8AE02D9C26.tmp' to '../../../../../Unreal games/2DProject/sidescroller/Saved/Autosaves/Game/Blueprints/PlatformMovement_Auto4.uasset'
+[2019.07.08-19.36.46:414][588]LogFileHelpers: Auto-saving content packages took 0.007
+[2019.07.08-19.40.37:928][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.08-19.40.41:418][678]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.08-19.40.44:279][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.08-19.42.19:484][496]LogSlate: Window 'PlatformMovement' being destroyed
+[2019.07.08-19.42.19:488][496]LogSlate: Window 'PlatformMovement' being destroyed
+[2019.07.08-19.42.21:301][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.08-19.42.24:848][741]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.07.08-19.43.13:119][631]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/PlatformMovement.PlatformMovement
+[2019.07.08-19.43.32:185][758]LogSlate: Window 'PlatformMovement' being destroyed
+[2019.07.08-19.43.32:190][758]LogSlate: Window 'PlatformMovement' being destroyed
+[2019.07.08-19.47.25:495][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.07.08-19.47.25:495][655]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.031
+[2019.07.08-19.47.25:496][655]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/PlatformMovement] ([1] browsable assets)...
+[2019.07.08-19.47.25:496][655]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/PlatformMovement]
+[2019.07.08-19.47.25:501][655]LogSavePackage: Moving '../../../../../Unreal games/2DProject/sidescroller/Saved/PlatformMovement_Auto5C1483308460AB3D302DA08A885B11B66.tmp' to '../../../../../Unreal games/2DProject/sidescroller/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/PlatformMovement_Auto5.uasset'
+[2019.07.08-19.47.25:502][655]LogFileHelpers: Auto-saving content packages took 0.006
+[2019.07.08-19.48.08:265][221]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_34)
+[2019.07.08-19.48.09:041][267]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Ledge_34)
+[2019.07.08-19.48.09:066][267]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.08-19.48.15:970][680]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/PlatformMovement.PlatformMovement
+[2019.07.08-19.48.22:606][ 64]LogSlate: Window 'PlatformMovement' being destroyed
+[2019.07.08-19.48.22:611][ 64]LogSlate: Window 'PlatformMovement' being destroyed
+[2019.07.08-19.48.24:456][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.08-19.48.24:579][179]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/PlatformMovement.PlatformMovement
+[2019.07.08-19.48.27:911][366]LogSlate: Window 'PlatformMovement' being destroyed
+[2019.07.08-19.48.27:915][366]LogSlate: Window 'PlatformMovement' being destroyed
+[2019.07.08-19.48.39:175][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.08-19.48.39:332][934]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/PlatformMovement.PlatformMovement
+[2019.07.08-19.48.42:441][102]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.08-19.48.42:454][102]LogSavePackage: Moving '../../../../../Unreal games/2DProject/sidescroller/Saved/PlatformMovement225C4D4B4968F7E5C929058DE1F01430.tmp' to '../../../../../Unreal games/2DProject/sidescroller/Content/2DSideScrollerBP/Blueprints/PlatformMovement.uasset'
+[2019.07.08-19.48.45:260][258]BlueprintLog: New page: Compile PlatformMovement
+[2019.07.08-19.48.45:388][258]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2019.07.08-19.48.45:864][286]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.08-19.48.53:879][708]LogSlate: Window 'PlatformMovement' being destroyed
+[2019.07.08-19.48.53:941][708]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.08-19.48.53:944][708]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/PlatformMovement.PlatformMovement
+[2019.07.08-20.03.54:553][711]LogSlate: Window 'PlatformMovement' being destroyed
+[2019.07.08-20.03.54:560][711]LogSlate: Window 'PlatformMovement' being destroyed
+[2019.07.08-20.03.56:107][801]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_34)
+[2019.07.08-20.04.00:814][ 83]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_17)
+[2019.07.08-20.04.01:964][150]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Ledge_17)
+[2019.07.08-20.04.01:983][150]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.08-20.04.16:252][  4]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.08-20.04.16:983][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.08-20.04.37:009][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.08-20.04.39:364][390]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2019.07.08-20.04.44:444][693]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_12)
+[2019.07.08-20.04.57:085][450]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2019.07.08-20.05.04:410][888]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2019.07.08-20.05.17:735][683]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2019.07.08-20.05.19:359][777]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_27)
+[2019.07.08-20.05.22:937][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.08-20.05.33:475][622]Cmd: TRANSACTION UNDO
+[2019.07.08-20.05.33:475][622]LogEditorTransaction: Undo Clicking on Actors
+[2019.07.08-20.05.34:054][656]Cmd: TRANSACTION UNDO
+[2019.07.08-20.05.34:055][656]LogEditorTransaction: Undo Clicking on Actors
+[2019.07.08-20.05.35:462][740]Cmd: TRANSACTION UNDO
+[2019.07.08-20.05.35:462][740]LogEditorTransaction: Undo Clicking on Actors
+[2019.07.08-20.05.36:457][797]Cmd: TRANSACTION UNDO
+[2019.07.08-20.05.36:457][797]LogEditorTransaction: Undo Clicking on Actors
+[2019.07.08-20.05.36:979][826]Cmd: TRANSACTION UNDO
+[2019.07.08-20.05.36:979][826]LogEditorTransaction: Undo Clicking on Actors
+[2019.07.08-20.05.37:436][853]Cmd: TRANSACTION UNDO
+[2019.07.08-20.05.37:436][853]LogEditorTransaction: Undo Clicking on Actors
+[2019.07.08-20.05.37:961][884]Cmd: TRANSACTION UNDO
+[2019.07.08-20.05.37:961][884]LogEditorTransaction: Undo Clicking on Actors
+[2019.07.08-20.05.38:651][925]Cmd: TRANSACTION UNDO
+[2019.07.08-20.05.38:652][925]LogEditorTransaction: Undo Pilot Actor
+[2019.07.08-20.05.40:701][ 48]Cmd: TRANSACTION UNDO
+[2019.07.08-20.05.40:701][ 48]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2019.07.08-20.05.42:818][175]Cmd: TRANSACTION UNDO
+[2019.07.08-20.05.42:818][175]LogEditorTransaction: Undo Clicking on Actors
+[2019.07.08-20.05.46:278][382]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_17)
+[2019.07.08-20.06.08:111][689]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_17)
+[2019.07.08-20.06.09:071][746]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_17)
+[2019.07.08-20.06.09:203][753]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2019.07.08-20.06.10:065][804]LogEditorViewport: Clicking on Component (context menu): PaperSpriteComponent (RenderComponent)
+[2019.07.08-20.06.10:099][804]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.08-20.06.14:367][ 60]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/PlatformMovement.PlatformMovement
+[2019.07.08-20.06.49:872][108]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2019.07.08-20.06.52:958][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.08-20.08.18:085][385]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.07.08-20.08.18:204][385]LogSavePackage: Moving '../../../../../Unreal games/2DProject/sidescroller/Saved/2DSideScrollerExampleMap_Auto6EB1574804A990ED7B8B217AB6877925C.tmp' to '../../../../../Unreal games/2DProject/sidescroller/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto6.umap'
+[2019.07.08-20.08.18:207][385]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.160
+[2019.07.08-20.08.18:207][385]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.160
+[2019.07.08-20.08.20:075][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.08-20.11.04:593][346]LogSlate: Window 'PlatformMovement' being destroyed
+[2019.07.08-20.11.04:598][346]LogSlate: Window 'PlatformMovement' being destroyed
+[2019.07.08-20.11.08:403][571]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.08-20.11.22:597][422]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.07.08-20.11.22:597][422]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/PlatformMovement.PlatformMovement
+[2019.07.08-20.13.39:220][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.08-20.13.39:393][517]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode
+[2019.07.08-20.13.52:958][316]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.08-20.13.54:429][405]BlueprintLog: New page: Compile 2DSideScrollerGameMode
+[2019.07.08-20.13.54:556][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2019.07.08-20.14.44:876][285]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_26)
+[2019.07.08-20.14.47:516][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.08-20.18.18:426][940]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2019.07.08-20.18.18:426][940]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.033
+[2019.07.08-20.18.18:427][940]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PlatformMovement] ([1] browsable assets)...
+[2019.07.08-20.18.18:427][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PlatformMovement]
+[2019.07.08-20.18.18:433][940]LogSavePackage: Moving '../../../../../Unreal games/2DProject/sidescroller/Saved/PlatformMovement_Auto7D83B62074999EE00737C178E2EF1CC13.tmp' to '../../../../../Unreal games/2DProject/sidescroller/Saved/Autosaves/Game/Blueprints/PlatformMovement_Auto7.uasset'
+[2019.07.08-20.18.18:434][940]LogFileHelpers: Auto-saving content packages took 0.007
